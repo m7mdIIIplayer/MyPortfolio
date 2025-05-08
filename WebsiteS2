@@ -1,27 +1,38 @@
 [
     {
-        "Title": "محفظة اعمال لعارضة ازياء",
-        "ImageUrl": "https://drive.google.com/file/d/1rPCGNQfm162EO1_xalEnGnntNimPOmQW/view?usp=sharing",
-        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio4/",
-        "Category": "Artist"
+        "TitleS2": "موقع استشارة مالية",
+        "Descriptionٍ2": "تصميم موقع احترافي لشركة استشارات مالية مع نظام حجز المواعيد وعرض الخدمات",
+        "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/FinancialAdvice/refs/heads/main/Screenshot%202025-05-09%20011639.png",
+        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/FinancialAdvice/",
+        "USE": "HTML, CSS, تخصيص كامل, نظام حجز",
+        "Category": "companies"
 
     },
     {
-        "Title": "محفظة اعمال لعارضة ازياء",
-        "ImageUrl": "https://drive.google.com/file/d/1g0jhDZVSrs4MOT438XOU_Z6Gg4cGUBL5/view?usp=sharing",
-        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio3/",
-        "Category": "Artist"
+        "TitleS2": "موقع دكتور أسنان",
+        "Descriptionٍ2": "موقع احترافي لطبيب أسنان",
+        "ImageUrl": "http://raw.githubusercontent.com/m7mdIIIplayer/Dentist1/refs/heads/main/Screenshot%202025-05-09%20011751.png",
+        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Dentist1/",
+        "USE": "HTML, CSS, تخصيص كامل, نظام حجز, لوحة تحكم",
+        "Category": "professional"
+
     },
     {
-        "Title": "محفظة اعمال لعارضة ازياء",
-        "ImageUrl": "https://drive.google.com/file/d/1p4-ypRBexSJPNDoDXTJpFh-zy9JZRC41/view?usp=sharing",
-        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio2/",
-        "Category": "Artist"
+        "TitleS2": "موقع لدكتور أسنان",
+        "Descriptionٍ2": "تصميم موقع لطبيب أسنان مع نظام حجز المواعيد وعرض الخدمات والشهادات",
+        "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/Dentist2/refs/heads/main/Screenshot%202025-05-09%20011815.png",
+        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Dentist2/",
+        "USE": "HTML, CSS, تخصيص كامل, نظام حجز, js",
+        "Category": "professional"
+
     },
     {
-        "Title": "متجر خدمات إلكترونية",
-        "ImageUrl": "https://drive.google.com/file/d/1BuXlk-UPGlQirrV-yL0HPSLFuncGW2Ed/view?usp=sharing",
-        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio1/",
-        "Category": "Artist"
-    }
+        "TitleS2": "موقع لمطعم فاخر",
+        "Descriptionٍ2": "تصميم موقع لمطعم فاخر مع عرض للقائمة وحجز الطاولات ومعرض صور للأطباق",
+        "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/luxuryRestaurant/refs/heads/main/Screenshot%202025-05-09%20011730.png",
+        "GitHubProjectURL": "https://m7mdiiiplayer.github.io/luxuryRestaurant/",
+        "USE": "HTML, CSS, تخصيص كامل, نظام حجز, js, معرض صور",
+        "Category": "companies"
+
+    },
 ]
