@@ -1,7 +1,7 @@
 [
     {
         "TitleS2": "موقع استشارة مالية",
-        "Descriptionٍ2": "تصميم موقع احترافي لشركة استشارات مالية مع نظام حجز المواعيد وعرض الخدمات",
+        "Description2": "تصميم موقع احترافي لشركة استشارات مالية مع نظام حجز المواعيد وعرض الخدمات",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/FinancialAdvice/refs/heads/main/Screenshot%202025-05-09%20011639.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/FinancialAdvice/",
         "USE": "HTML, CSS, تخصيص كامل, نظام حجز",
@@ -10,7 +10,7 @@
     },
     {
         "TitleS2": "موقع دكتور أسنان",
-        "Descriptionٍ2": "موقع احترافي لطبيب أسنان",
+        "Description2": "موقع احترافي لطبيب أسنان",
         "ImageUrl": "http://raw.githubusercontent.com/m7mdIIIplayer/Dentist1/refs/heads/main/Screenshot%202025-05-09%20011751.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Dentist1/",
         "USE": "HTML, CSS, تخصيص كامل, نظام حجز, لوحة تحكم",
@@ -19,7 +19,7 @@
     },
     {
         "TitleS2": "موقع لدكتور أسنان",
-        "Descriptionٍ2": "تصميم موقع لطبيب أسنان مع نظام حجز المواعيد وعرض الخدمات والشهادات",
+        "Description2": "تصميم موقع لطبيب أسنان مع نظام حجز المواعيد وعرض الخدمات والشهادات",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/Dentist2/refs/heads/main/Screenshot%202025-05-09%20011815.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Dentist2/",
         "USE": "HTML, CSS, تخصيص كامل, نظام حجز, js",
@@ -28,7 +28,7 @@
     },
     {
         "TitleS2": "موقع لمطعم فاخر",
-        "Descriptionٍ2": "تصميم موقع لمطعم فاخر مع عرض للقائمة وحجز الطاولات ومعرض صور للأطباق",
+        "Description2": "تصميم موقع لمطعم فاخر مع عرض للقائمة وحجز الطاولات ومعرض صور للأطباق",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/luxuryRestaurant/refs/heads/main/Screenshot%202025-05-09%20011730.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/luxuryRestaurant/",
         "USE": "HTML, CSS, تخصيص كامل, نظام حجز, js, معرض صور",
@@ -37,7 +37,7 @@
     },
     {
         "TitleS2": "1 محفظة اعمال",
-        "Descriptionٍ2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
+        "Description2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203350.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio4/",
         "USE": "HTML, CSS, js, معرض صور",
@@ -46,7 +46,7 @@
     },
     {
         "TitleS2": "2 محفظة اعمال",
-        "Descriptionٍ2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
+        "Description2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203409.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio3/",
         "USE": "HTML, CSS, js, معرض صور",
@@ -55,7 +55,7 @@
     },
     {
         "TitleS2": "3 محفظة اعمال",
-        "Descriptionٍ2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
+        "Description2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203427.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio2/",
         "USE": "HTML, CSS, js, معرض صور",
@@ -64,7 +64,7 @@
     },
     {
         "TitleS2": "4 محفظة اعمال",
-        "Descriptionٍ2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
+        "Description2": "تصميم محفظة اعمال ديناميكية لعرض أي محتوى",
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203452.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio1/",
         "USE": "HTML, CSS, js, معرض صور",
