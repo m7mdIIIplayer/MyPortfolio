@@ -41,7 +41,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203350.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio4/",
         "USE": "HTML, CSS, js, معرض صور",
-        "Category": "companies"
+        "Category": "personal"
 
     },
     {
@@ -50,7 +50,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203409.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio3/",
         "USE": "HTML, CSS, js, معرض صور",
-        "Category": "companies"
+        "Category": "personal"
 
     },
     {
@@ -59,7 +59,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203427.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio2/",
         "USE": "HTML, CSS, js, معرض صور",
-        "Category": "companies"
+        "Category": "personal"
 
     },
     {
@@ -68,7 +68,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/m7mdIIIplayer/MyPortfolio/refs/heads/main/Screenshot%202025-05-08%20203452.png",
         "GitHubProjectURL": "https://m7mdiiiplayer.github.io/Portfolio1/",
         "USE": "HTML, CSS, js, معرض صور",
-        "Category": "companies"
+        "Category": "personal"
 
     }
 ]
